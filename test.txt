@@ -2,10 +2,4 @@
 
 정민이가 수정햇더요<<<<<<< HEAD
 
-<<<<<<<<< Temporary merge branch 1
-또 수정 중
-=========
-정민이가 또 수정 중
-
-기다려봐
->>>>>>>>> Temporary merge branch 2
+울라라라라
